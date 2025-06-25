@@ -1,30 +1,12 @@
-# React_lucide_framer
-Set of learning in React.js lucide and framer motion concept
-# 🚀 React Sidebar with Framer Motion & Lucide Icons
+# React + Vite
 
-This project demonstrates a responsive sidebar built with:
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-- **Framer Motion** for smooth animations
-- **Lucide Icons** for modern iconography
-- **React.js** for building component-based UI
+Currently, two official plugins are available:
 
-## 🔧 Features
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-- Toggleable sidebar with sliding animation
-- Menu ↔ Close icon using Lucide
-- Fully responsive & easy to extend
+## Expanding the ESLint configuration
 
-
-## 🛠️ Tech Stack
-
-- React.js
-- Framer Motion
-- Lucide Icons
-- Tailwind CSS (optional)
-
-## 💻 Getting Started
-
-```bash
-npm install
-npm start
-
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
